@@ -1,0 +1,78 @@
+body{
+    background-color: pink;
+}
+#asking{
+    margin-top: 90px;
+    margin-left: 39%;
+}
+#asking1{
+    margin-top: 30px;
+    margin-left: 39%;
+}
+#asking2{
+    margin-top: 30px;
+    margin-left: 45%;
+}
+#asking3{
+    margin-left: 39%;
+    border-radius: 10%;
+    height: 40px;
+    width: 80px;
+}
+
+#asking4{
+    margin-top: 30px;
+    margin-left: 7%;
+    border-radius: 10%;
+    height: 40px;
+    width: 80px;
+}
+
+/* after YES */
+
+#yes1{
+    margin-top: 30px;
+    margin-left: 30%;
+}
+
+/* after first NO */
+#no11{
+    margin-top: 30px;
+    margin-left: 39%;
+}
+#no12{
+    
+    margin-top: 30px;
+    margin-left: 43%;
+}
+
+/* after second NO */
+#no21{
+    margin-top: 25px;
+    margin-left: 38.5%;
+}
+#no22{
+    
+    margin-top: 30px;
+    margin-left: 43%;
+}
+/* after third NO */
+#no31{
+    margin-top: 25px;
+    margin-left: 38.5%;
+}
+#no32{
+    
+    margin-top: 30px;
+    margin-left: 44%;
+}
+/* after fourth NO */
+#no41{
+    margin-top: 25px;
+    margin-left: 35.5%;
+}
+#no42{
+    
+    margin-top: 30px;
+    margin-left: 44%;
+}
